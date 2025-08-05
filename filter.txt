@@ -1,0 +1,3 @@
+# My custom filter list for the plugin
+
+https://t.me/AssemBlogger
