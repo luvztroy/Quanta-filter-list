@@ -9,7 +9,7 @@ https://t.me/OctoGramApp/89
 
 # Usernames that you want to block from opening
 
-@farsi
+@farsi 1529634175 {This account is flagged for testing purpose}
 @bcgame_miniappbot
 @zfcqwef
 @EvoBetWin
