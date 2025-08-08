@@ -24,6 +24,7 @@ http://t.me/WhaleRef2Bot?start=challenge
 @nezami
 @imwhale
 @ARZ_PROXY
+@deep_prime_tag
 
 # User ids that you want to block from opening
 
