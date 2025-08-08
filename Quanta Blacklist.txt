@@ -27,4 +27,4 @@ http://t.me/WhaleRef2Bot?start=challenge
 
 # User ids that you want to block from opening
 
-
+7036993628
