@@ -24,3 +24,7 @@ http://t.me/WhaleRef2Bot?start=challenge
 @nezami
 @imwhale
 @ARZ_PROXY
+
+# User ids that you want to block from opening
+
+6675591725
