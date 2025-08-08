@@ -1,12 +1,16 @@
-# My custom filter list for the plugin
+# Quanta custom filter list for the plugin
+
+# urls that you want to block from opening
 
 https://t.me/AssemBlogger
 https://t.me/DurovGifts_Bot/app?startapp=r_5319207457
+https://t.me/Lucky_Draw_Master
+
+# Usernames that you want to block from opening
+
 @farsi
 @bcgame_miniappbot
 @zfcqwef
 @EvoBetWin
-https://t.me/Lucky_Draw_Master
-@Iuvztroy
 @WhAlE_ChAnEl
 @goold
