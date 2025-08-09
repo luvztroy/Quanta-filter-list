@@ -5,7 +5,7 @@ Maintained by [luvztroy](https://github.com/luvztroy) and the Quanta Plugins com
 
 ## 📥 About
 
-`filter.txt` contains a plain text list of scammers and suspicious URLs commonly found circulating on Telegram.  
+`Qyanta Blacklist.txt` contains a plain text list of scammers and suspicious URLs commonly found circulating on Telegram.  
 You can download and use this file via the [UiTweaks](https://t.me/QuantaPlugins/90) plugin built for [exteraGram](https://t.me/exteraGram) and [Ayugram](https://t.me/AyuGramReleases)
 
 **Goal:** Help users avoid scams, phishing attempts, impersonators, and shady crypto schemes.
