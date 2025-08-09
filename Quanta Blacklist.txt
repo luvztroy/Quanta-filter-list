@@ -8,8 +8,15 @@ https://t.me/Lucky_Draw_Master
 https://t.me/OctoGramApp/89
 https://www.coinlocally.com/en_US/register?inviteCode=SHAHIN
 http://t.me/WhaleRef2Bot?start=challenge
+# user ids from Quanta side 
 
-# Usernames that you want to block from opening
+7036993628
+7936528306
+1000596732
+1663127489
+8483650922
+
+# Username from Quanta side
 
 @farsi
 @bcgame_miniappbot
@@ -26,6 +33,10 @@ http://t.me/WhaleRef2Bot?start=challenge
 @imwhale
 @ARZ_PROXY
 @deep_prime_tag
+@Rdzeai
+
+# Usernames from scam database channel
+
 @A1exander_ViP
 @AAA333AAAS
 @ACTAXOB_TG
@@ -8040,11 +8051,8 @@ http://t.me/WhaleRef2Bot?start=challenge
 @zzz4zzz4
 
 
-# User ids that you want to block from opening
+# User ids from scam database channel
 
-7036993628
-7936528306
-1000596732
 100148539
 1001760558
 1001957431
