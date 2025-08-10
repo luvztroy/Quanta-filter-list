@@ -39,11 +39,6 @@ All reports are reviewed before adding.
 
 **Please do NOT submit false positives.**
 
-##  License
-
-This project is open-source under the [MIT License](LICENSE).  
-Use it responsibly. Do not repurpose it for malicious targeting.
-
 ##  Credits
 
 Maintained by [@luvztroy](https://t.me/luvztroy).and[@iamzainnnn](https://t.me/iamzainnnn)
