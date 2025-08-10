@@ -19,7 +19,7 @@ Each entry in `filter.txt` is either:
 
 ## 🛠️ How to Use
 
-You can use `filter.txt` to:
+You can use `Quanta Blacklist.txt` to:
 - Block users or links automatically in [UiTweaks Plugin](https://t.me/QuantaPlugins/90)  
 - Warn users about risky URLs  
 - Build custom blocklists for exteraGram Plugins
@@ -29,7 +29,7 @@ You can use `filter.txt` to:
 
 You can help expand the list!
 
-- Fork this repo ➝ Add entries to `filter.txt` ➝ Submit a pull request  
+- Fork this repo ➝ Add entries to `Quanta Blacklist.txt` ➝ Submit a pull request  
 - Or report anonymously via our Telegram bot:
 
 **Got scammed? Drop the username or URL you want to blacklist and help others avoid the same trap!**  
@@ -46,7 +46,7 @@ Use it responsibly. Do not repurpose it for malicious targeting.
 
 ## ⭐ Credits
 
-Maintained by [@luvztroy](https://github.com/luvztroy).and[@iamzainnnn](https://t.me/iamzainnnn)
+Maintained by [@luvztroy](https://t.me/luvztroy).and[@iamzainnnn](https://t.me/iamzainnnn)
 Special thanks to all community reporters!
 
 **Stay safe. Stay alert. Stop scammers.**
