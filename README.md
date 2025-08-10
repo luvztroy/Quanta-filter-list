@@ -41,7 +41,7 @@ All reports are reviewed before adding.
 
 ##  Credits
 
-Maintained by [@luvztroy](https://t.me/luvztroy).and[@iamzainnnn](https://t.me/iamzainnnn)
+Maintained by [@luvztroy](https://t.me/luvztroy)and[@iamzainnnn](https://t.me/iamzainnnn),
 Special thanks to all community reporters!
 
 **Stay safe. Stay alert. Stop scammers.**
