@@ -17,6 +17,8 @@ http://t.me/WhaleRef2Bot?start=challenge
 8483650922
 6262810421
 1179279866
+2597855149
+7345902040
 
 # Username from Quanta side
 
@@ -36,6 +38,7 @@ http://t.me/WhaleRef2Bot?start=challenge
 @ARZ_PROXY
 @deep_prime_tag
 @Rdzeai
+@mroplfn
 
 # Usernames from scam database channel
 
