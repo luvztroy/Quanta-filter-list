@@ -10,6 +10,7 @@ http://t.me/WhaleRef2Bot?start=challenge
 https://t.me/knfkzn
 https://818gzs-data.com/?invite_code=c46fdb
 https://Diroll-Casino.com
+http://t.me/StalkerGram
 
 # user ids from Quanta side 
 
@@ -32,6 +33,8 @@ https://Diroll-Casino.com
 2260647074
 7229390874
 8065010162
+6893024884
+6977522637
 
 # Username from Quanta side
 
@@ -58,6 +61,10 @@ https://Diroll-Casino.com
 @CasinoDiroll
 @Dirollsupport
 @VegasGamblerBot
+@casino_sport_betting
+@digitbet
+@tg_traffic_tg
+@I_love_cham0mile
 
 # Usernames from scam database channel
 
