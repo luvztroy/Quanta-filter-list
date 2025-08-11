@@ -35,6 +35,8 @@ http://t.me/StalkerGram
 8065010162
 6893024884
 6977522637
+6674474838
+8311380040
 
 # Username from Quanta side
 
@@ -65,6 +67,7 @@ http://t.me/StalkerGram
 @digitbet
 @tg_traffic_tg
 @I_love_cham0mile
+@lJetLuxelbot
 
 # Usernames from scam database channel
 
