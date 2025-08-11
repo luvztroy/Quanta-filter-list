@@ -14,6 +14,7 @@ http://t.me/StalkerGram
 
 # user ids from Quanta side 
 
+7016311646
 7036993628
 7936528306
 1000596732
@@ -40,6 +41,7 @@ http://t.me/StalkerGram
 
 # Username from Quanta side
 
+@MetaBlooom
 @farsi
 @bcgame_miniappbot
 @Cerulean_1939
